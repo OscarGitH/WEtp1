@@ -46,6 +46,15 @@ The choice of technologies was predefined for the assignment:
 
 ---
 
+## Bonus: Deployment
+
+The application was deployed using GitHub Pages.
+
+Live version available here:
+https://oscargith.github.io/WEtp1/canvas.html
+
+---
+
 ## Author
 PAVOINE Oscar  
 Master 1 – Informatique (IL, Apprenticeship)
