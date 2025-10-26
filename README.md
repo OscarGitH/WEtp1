@@ -57,4 +57,4 @@ https://oscargith.github.io/WEtp1/canvas.html
 
 ## Author
 PAVOINE Oscar  
-Master 1 – Informatique (IL, Apprenticeship)
+Master 1 – Informatique (IL, Apprentissage)
