@@ -1,29 +1,29 @@
 # TP Web : Javascript et HTML5
 
 ## Overview
-This project is a **university assignment** whose goal is to build a **web application from scratch** (without any framework) using the **MVC design pattern**.  
+This project is a university assignment whose goal is to build a web application from scratch (without any framework) using the MVC design pattern.  
 A project base was provided here: [https://github.com/barais/tpWeb](https://github.com/barais/tpWeb).
 
 ---
 
 ## Features
 Among the required features are:
-- Drawing **rectangles** and **lines**
-- Selecting **color** and **line thickness**
-- Displaying a **list of drawn shapes**
-- **Deleting shapes individually**
-- **Mouse interactions** for drawing (click, drag, release)
+- Drawing rectangles and lines
+- Selecting color and line thickness
+- Displaying a list of drawn shapes
+- Deleting shapes individually
+- Mouse interactions for drawing (click, drag, release)
 
 Additionally, I implemented:
-- A new shape: **ellipse**
-- A **“Clear All” button** to remove all shapes at once
+- A new shape: ellipse
+- A “Clear All” button to remove all shapes at once
 
 ---
 
 ## Architecture
-- **Model:** Manages shapes (`Drawing`, `Rectangle`, `Line`, `Ellipse`)
-- **View:** Renders shapes on the canvas and updates the shape list
-- **Controller:** Handles user input through `DnD` and `Pencil`
+- Model: Manages shapes (`Drawing`, `Rectangle`, `Line`, `Ellipse`)
+- View: Renders shapes on the canvas and updates the shape list
+- Controller: Handles user input through `DnD` and `Pencil`
 
 ---
 
